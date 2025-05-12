@@ -1,1 +1,3 @@
-export const admins = ["theghost1980", "theghost.tests"];
+//TODO add when coding admin features:
+// "theghost1980", "theghost.tests"
+export const admins = [];
